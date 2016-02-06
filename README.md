@@ -1,2 +1,2 @@
 # CodeGators
-A web based data computed system
+A web based data computing system
