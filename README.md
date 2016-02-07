@@ -21,7 +21,6 @@ Implemetation of a music store while users can search and get recommandations of
 
   * Frontend
     * [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
-
   * Backend
     * [Java Spring](https://spring.io/)
     * [MongoDB](https://www.coursera.org/learn/web-application-development)
